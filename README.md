@@ -1,4 +1,8 @@
 ### Hi there 👋
+### 🔭 I’m currently working on ✨ A VIDEO GAME ✨
+### 🌱 I’m currently learning EVERYTHING ;-; helppp
+### 👯 I’m looking to collaborate on SOLO GAME DEVELOPMENT
+### 🤔 I’m looking for help with my deteriorating mental state, |o - o| 
 
 <!--
 **HarryFroude/HarryFroude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
