@@ -1,20 +1,20 @@
-### Hi there 👋
-### 🔭 I’m currently working on ✨ A VIDEO GAME ✨
-### 🌱 I’m currently learning EVERYTHING ;-; helppp
-### 👯 I’m looking to collaborate on SOLO GAME DEVELOPMENT
-### 🤔 I’m looking for help with my deteriorating mental state, |o - o| 
+<!-- Banner Image -->
+![Hello World!](https://imgur.com/a/M0pR77U)
 
-<!--
-**HarryFroude/HarryFroude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 嗨, fellow wanderer! 👋
 
-Here are some ideas to get you started:
+Welcome to my little corner of the coding cosmos! 🌌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Rocketing Towards...
+
+🎮 **Crafting Epic Game yes:** Pouring heart and code into a thrilling video game! *pre pre production 🎮
+
+📚 **Learning Quest:** Embarking on a quest for knowledge, mastering all things tech, art, and beyond! 💡
+
+## 🌟 Ready for Adventure?
+
+Strap on your keyboard, grab a mug of coffee ☕, and let's dive into the realms pain and code! 💻✨
+
+---
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/your_username?label=Follow&style=social)](https://github.com/HarryFroude)
