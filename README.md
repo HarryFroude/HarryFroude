@@ -3,14 +3,14 @@
 
 # 嗨, fellow code enjoyers! 👋
 
-Welcome to my little corner of the coding cosmos! 🌌
-<br /> 
+Welcome to my little corner of the coding cosmos! 🌌<br /> 
+
 ## 🚀 Currently Rocketing Towards...
 
 🎮 **Crafting Epic Game yes:** Pouring heart and code into a thrilling video game! *pre pre production 🎮
 
-📚 **Learning Quest:** Embarking on a quest for knowledge, mastering all things tech, art, and beyond! 💡
-<br /> 
+📚 **Learning Quest:** Embarking on a quest for knowledge, mastering all things tech, art, and beyond! 💡<br /> 
+
 ## 🌟 Ready for Adventure?
 
 Strap on your keyboard, grab a mug of coffee ☕, and let's dive into the realms pain and code! 💻✨
