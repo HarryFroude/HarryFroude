@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-![Hello World!](https://imgur.com/a/M0pR77U)
+![Hello World!](https://i.imgur.com/nDA6TE9.png)
 
-# 嗨, fellow wanderer! 👋
+# 嗨, fellow code enjoyers! 👋
 
 Welcome to my little corner of the coding cosmos! 🌌
 
