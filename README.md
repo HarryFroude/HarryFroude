@@ -16,7 +16,7 @@ Welcome to my little corner of the coding cosmos! 🌌
 
 ## 🌟 Ready for Adventure?
 
-Strap on your keyboard, grab a mug of coffee ☕, and let's dive into the realms pain... I mean code! 💻✨
+Strap on your keyboard, grab a mug of coffee ☕, and let's dive into the realm of pain... I mean code! 💻✨
 
 ## How to Connect:
 - LinkedIn: [Click Here](https://uk.linkedin.com/in/harryfroude)
